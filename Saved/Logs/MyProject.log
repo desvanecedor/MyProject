@@ -3870,3 +3870,66 @@ Ya existe un activo en la ubicación de importación: /Game/ThirdPersonBP/Music/
 [2021.10.17-23.14.22:873][308]LogSavePackage: Moving 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject/Saved/Menu_Principal_Auto4B80CFCA44A478F65D9EE73B6CA0FB11A.tmp' to 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/Widget/Menu_Principal_Auto4.uasset'
 [2021.10.17-23.14.22:874][308]LogFileHelpers: Auto-saving content packages took 0.002
 [2021.10.17-23.14.33:619][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.10.17-23.18.30:232][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Content: 'D:/Motor Program/UE_4.27/Engine/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:232][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:232][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:232][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:232][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:232][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:232][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:232][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:232][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:232][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:232][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:232][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:233][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:233][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/Landmass/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/Landmass/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:233][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:233][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:233][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:233][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/Water/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Experimental/Water/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:233][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:233][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:233][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:233][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:233][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:233][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:233][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:233][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:233][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.30:233][929]SourceControl: fatal: D:/Motor Program/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Motor Program/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/desva/OneDrive/Documentos/GitHub/MyProject'
+[2021.10.17-23.18.31:448][929]EditorErrors: Warning: No assets to check in!
+[2021.10.17-23.18.38:638][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.10.17-23.18.40:110][770]LogSlate: Window 'Guardar contenido' being destroyed
+[2021.10.17-23.18.40:261][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.10.17-23.18.40:366][770]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2021.10.17-23.18.40:712][771]Cmd: QUIT_EDITOR
+[2021.10.17-23.18.40:712][771]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.10.17-23.18.40:773][771]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.10.17-23.18.41:281][771]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.10.17-23.18.41:281][771]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.10.17-23.18.41:281][771]LogAudio: Display: Audio Device unregistered from world 'Mapa_1'.
+[2021.10.17-23.18.41:281][771]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-23.18.41:282][771]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-23.18.41:317][771]LogAudio: Display: Audio Device Manager Shutdown
+[2021.10.17-23.18.41:318][771]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.17-23.18.41:325][771]LogExit: Preparing to exit.
+[2021.10.17-23.18.41:947][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.10.17-23.18.42:629][771]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-23.18.42:633][771]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-23.18.42:636][771]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-23.18.42:639][771]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-23.18.42:642][771]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-23.18.42:645][771]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-23.18.42:648][771]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-23.18.42:651][771]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-23.18.42:654][771]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-23.18.42:656][771]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-23.18.42:660][771]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-23.18.42:662][771]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-23.18.42:665][771]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-23.18.42:668][771]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-23.18.42:865][771]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.10.17-23.18.43:249][771]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-23.18.43:250][771]LogExit: Editor shut down
+[2021.10.17-23.18.43:262][771]LogExit: Transaction tracking system shut down
